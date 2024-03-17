@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chan\\source\\repos\\ATM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3124885-8C4E-42E6-9D07-54305DA0CEF2}|ATM\\ATM.csproj|c:\\users\\chan\\source\\repos\\atm\\atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3124885-8C4E-42E6-9D07-54305DA0CEF2}|ATM\\ATM.csproj|solutionrelative:atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chan\\source\\repos\\ATM\\ATM\\Program.cs",
+              "RelativeDocumentMoniker": "ATM\\Program.cs",
+              "ToolTip": "C:\\Users\\Chan\\source\\repos\\ATM\\ATM\\Program.cs",
+              "RelativeToolTip": "ATM\\Program.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAADwv5oAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:03:25.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
